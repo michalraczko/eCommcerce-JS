@@ -1,4 +1,4 @@
-# eCommcerce-project-JS
+# eCommcerce-JS
 
 #Hello :-)
 
